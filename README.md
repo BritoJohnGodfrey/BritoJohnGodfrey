@@ -1,5 +1,5 @@
 - 👋 Hi, I m Brito John Godfrey
 - Student
-- Learning Python,C,Java and Cyber Security
+- Learning java,Python and Cyber Security
 - Interested in Computer Programming
 - Java
